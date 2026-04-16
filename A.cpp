@@ -30,4 +30,8 @@ public:
     void MA2() {
         cout << "MA2" << endl;
     }
+    //etapa 13
+    void MA3() {
+        cout << "Alteração a classe A a partir do clone" << endl;
+    }
 };
